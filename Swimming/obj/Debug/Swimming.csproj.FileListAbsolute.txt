@@ -9,3 +9,14 @@ D:\Code\C#\Swimming\Swimming\obj\Debug\Swimming.exe
 D:\Code\C#\Swimming\Swimming\obj\Debug\Swimming.pdb
 D:\Code\C#\Swimming\Swimming\obj\Debug\Swimming.Form1.resources
 D:\Code\C#\Swimming\Swimming\obj\Debug\Swimming.SwimmingPool.resources
+D:\Git\Swimming_Pool\Swimming\bin\Debug\Swimming.exe.config
+D:\Git\Swimming_Pool\Swimming\bin\Debug\Swimming.exe
+D:\Git\Swimming_Pool\Swimming\bin\Debug\Swimming.pdb
+D:\Git\Swimming_Pool\Swimming\obj\Debug\Swimming.csprojAssemblyReference.cache
+D:\Git\Swimming_Pool\Swimming\obj\Debug\Swimming.Form1.resources
+D:\Git\Swimming_Pool\Swimming\obj\Debug\Swimming.Properties.Resources.resources
+D:\Git\Swimming_Pool\Swimming\obj\Debug\Swimming.SwimmingPool.resources
+D:\Git\Swimming_Pool\Swimming\obj\Debug\Swimming.csproj.GenerateResource.cache
+D:\Git\Swimming_Pool\Swimming\obj\Debug\Swimming.csproj.CoreCompileInputs.cache
+D:\Git\Swimming_Pool\Swimming\obj\Debug\Swimming.exe
+D:\Git\Swimming_Pool\Swimming\obj\Debug\Swimming.pdb

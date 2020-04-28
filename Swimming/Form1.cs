@@ -21,6 +21,8 @@ namespace Swimming
 
             TeamName.Text = $"Ime prve ekipe:";
             AssignTeam.Text = "Dalje";
+
+            MessageBox.Show("Enter the team name and then a number for the speed of that swimmer\n If you don't i'm gonna crash on you :)");
         }
 
         private void AssignTeam_Click(object sender, EventArgs e)
